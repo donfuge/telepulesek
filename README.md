@@ -1,9 +1,8 @@
-# telepulesek
-Generált magyar településnevek
+#Generált magyar településnevek
 
 Lásd a telepulesek_generalt.txt fájlban. 
 
-Linkek
+#Linkek
 
 Magyar települések listája: http://www.topomap.hu/downloads/telepuleskereso_web.xls
 
