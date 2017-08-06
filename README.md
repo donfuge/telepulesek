@@ -1,0 +1,2 @@
+# telepulesek
+Generált magyar településnevek
